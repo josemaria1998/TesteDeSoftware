@@ -1,0 +1,22 @@
+{
+  "name": "testedesoftware",
+  "version": "1.0.0",
+  "description": "primeiro pacote que foi criado na materia de teste de software pelo aluno sem a ajuda do professor pela precao de ser uma atividade que vale 20 pontos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josemaria1998/TesteDeSoftware.git"
+  },
+  "author": "jose maria soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josemaria1998/TesteDeSoftware/issues"
+  },
+  "homepage": "https://github.com/josemaria1998/TesteDeSoftware#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
